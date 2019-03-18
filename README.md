@@ -6,6 +6,7 @@ This is an automatic GreenHouse with Arduino and some modules
 Arduino_GreenHouse  
 ├── Greenhouse.ino (Main Arduino file)  
 ├── schematics.png (An image of the required schematics)  
+├── LICENSE (Details about the License)  
 └── README.md (This file)  
 
 
@@ -21,4 +22,4 @@ Cooler 5v
 Led Full espectrum (x4)  
 
 ## License
-This project is released under a MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
