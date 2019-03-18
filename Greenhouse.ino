@@ -62,11 +62,11 @@ void loop() {
   {digitalWrite(7, HIGH);}
   else{digitalWrite(7, LOW);}
 
-  //Esperar un segundo
+  //Wait a second
   s+=1;delay(1000);
   }
 
-//Mostrar en LCD
+//Display
 void humedad() {                      
   lcd.setCursor ( 6, 0 );lcd.print ("Soil");
   lcd.setCursor ( 4, 1 );lcd.write (0); 
